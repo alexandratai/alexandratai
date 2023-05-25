@@ -1,3 +1,5 @@
+<center>
+
 ### Hi there 👋🏻 I'm Alex.
 
 Social Media Manager / Strategist turned Software Engineer.
@@ -18,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</center>
