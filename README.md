@@ -6,7 +6,7 @@ Social Media Manager / Strategist turned Software Engineer.
 
 **Languages / Tools**: JavaScript, Python, React.js, React Native, Redux, Node.js, Express, Amazon S3, Sqlite3, SQLAlchemy, Sequelize, Flask, Websockets, SQL, HTML, CSS, Git
 
-I'm currently working on: building a basic notes app!
+**Currently working on**: building a basic notes app!
 
 <!--
 **alexandratai/alexandratai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
